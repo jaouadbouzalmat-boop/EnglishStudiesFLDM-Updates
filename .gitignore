@@ -17,7 +17,6 @@ local.properties
 keystore.properties
 keystore/*.jks
 .gradle-user-home/
-app/google-services.json
 .idea/
 keystore/
 *.apk

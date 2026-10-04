@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109073204909",
+    "project_id": "englishstudiesfldm",
+    "storage_bucket": "englishstudiesfldm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109073204909:android:6eb284cbf7cf12ee71e824",
+        "android_client_info": {
+          "package_name": "ma.fldm.englishstudies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIccPzkPBIt3e9D-qvl71CHRyAnsLs_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
