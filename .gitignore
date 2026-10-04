@@ -22,3 +22,6 @@ app/google-services.json
 keystore/
 *.apk
 *.tar
+
+# Google GitHub Actions credentials
+gha-creds-*.json
