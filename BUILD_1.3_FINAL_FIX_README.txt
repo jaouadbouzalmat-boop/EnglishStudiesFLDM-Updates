@@ -1,0 +1,10 @@
+VERSION 1.3 - FINAL COMPILATION FIX
+
+Fixed:
+- Experimental Material3 API opt-in for newly added screens.
+- Invalid Icon argument ordering in SpokenEnglishScreen.kt.
+
+Version: 1.3
+versionCode: 4
+
+Run GENERER_APK_1_3.bat to build the release APK.

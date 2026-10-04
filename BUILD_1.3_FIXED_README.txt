@@ -1,0 +1,10 @@
+EnglishStudiesFLDM v1.3 — build fixes
+
+Correctifs appliqués :
+- Ajout de material-icons-extended pour les imports Icons.Default.*.
+- Ajout de LocalContext dans LanguageTerminology1Screen et SpokenEnglishScreen.
+- Correction des appels Compose mélangeant arguments nommés et positionnels.
+- versionCode 4 / versionName 1.3 conservés.
+- Oliver Twist, The Reluctant Fundamentalist et Robinson Crusoe conservés.
+
+Générer l’APK avec GENERER_APK_1_3.bat.

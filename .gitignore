@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Local Android signing credentials
+keystore.properties
+keystore/*.jks
+.gradle-user-home/
+app/google-services.json
+.idea/
+keystore/
+*.apk
+*.tar

@@ -1,0 +1,1 @@
+EnglishStudiesFLDM - Version 1.3\n\nVersion: versionCode 4 / versionName 1.3\nLe script de generation est GENERER_APK_1_3.bat\nIl verifie la version, cherche Java et le SDK Android, nettoie le build, puis genere l APK release.\n

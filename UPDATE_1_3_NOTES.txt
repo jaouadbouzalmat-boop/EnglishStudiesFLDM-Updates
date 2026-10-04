@@ -1,0 +1,20 @@
+EnglishStudiesFLDM - Mise a jour 1.3
+
+Integre:
+- Reading Comprehension and Precis 1 -> ReadingComprehensionScreen
+- Spoken English -> SpokenEnglishScreen
+- Language and Terminology 1 -> LanguageTerminology1Screen
+- Methodology of Academic Work -> MethodologyAcademicWorkScreen
+
+Preserve:
+- Guided Reading 1 -> Oliver Twist (aucun remplacement)
+- Grammar 1 existant (CourseData / parcours actuel)
+- The Reluctant Fundamentalist (S5 / Novel 1)
+- Robinson Crusoe (S6 / Novel 2)
+
+Version:
+- versionCode = 4
+- versionName = 1.3
+
+Les nouveaux ecrans ont ete adaptes au package ma.fldm.englishstudies.
+La permission RECORD_AUDIO existante est conservee.
